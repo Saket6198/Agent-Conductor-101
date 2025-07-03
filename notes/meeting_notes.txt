@@ -1,0 +1,47 @@
+Meeting Notes
+
+Meeting Title: Project Status Update
+Date: July 3, 2025
+Time: 3:00 PM – 3:45 PM
+Location: Zoom
+Meeting Organizer: John Doe
+Attendees:
+- John Doe (Project Manager)
+- Jane Smith (Frontend Lead)
+- Rahul Kumar (Backend Lead)
+- Lisa Wong (QA Lead)
+- Alex Johnson (DevOps)
+
+Agenda:
+1. Review project progress
+2. Discuss current blockers
+3. Plan next sprint goals
+
+Discussion Summary:
+
+1. Project Progress
+- Frontend module 80% complete; login and dashboard features deployed to staging.
+- Backend API integration is ongoing; payment service integration expected by Friday.
+- QA has started regression testing on previous sprint deliverables.
+
+2. Current Blockers
+- DevOps raised issues regarding the staging environment instability. Alex to investigate logs and restart the containerized services.
+- Payment API sandbox access delayed. Rahul following up with the vendor.
+
+3. Next Sprint Goals
+- Complete payment module integration.
+- Frontend to start working on the user profile page.
+- QA to focus on automation coverage for critical paths.
+- DevOps to automate backup of staging DB.
+
+Action Items:
+
+| Task                                        | Owner  | Due Date |
+|---------------------------------------------|--------|----------|
+| Resolve staging environment issues          | Alex   | July 4   |
+| Follow up on Payment API sandbox            | Rahul  | July 5   |
+| Start development of the user profile page  | Jane   | July 7   |
+| Increase automation coverage in QA          | Lisa   | July 10  |
+
+Next Meeting:
+July 10, 2025, 3:00 PM
