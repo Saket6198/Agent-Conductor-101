@@ -7,12 +7,13 @@ import { weatherAgent } from "./agents/weather-agent";
 import { financialAgent } from "./agents/financial-agent";
 import { personalAssistantAgent } from "./agents/personal-assistant";
 import { contentAgent } from "./agents/content-agent";
-// import { personalAssistantAgent } from "./agents/personal-assistant";
+import { parallelWorkflow } from "./parallel-workflows/content-parallel";
 
 export const mastra = new Mastra({
   workflows: {
     weatherWorkflow,
-    contentWorkflow,
+    // contentWorkflow,
+    parallelWorkflow, // Add the parallel workflow
   },
   agents: {
     weatherAgent,
