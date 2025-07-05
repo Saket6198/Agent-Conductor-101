@@ -8,12 +8,21 @@ import { financialAgent } from "./agents/financial-agent";
 import { personalAssistantAgent } from "./agents/personal-assistant";
 import { contentAgent } from "./agents/content-agent";
 import { parallelWorkflow } from "./parallel-workflows/content-parallel";
+import { branchedWorkflow } from "./branched-workflows/content-branched";
+
+import {
+  logicalOperatorsWorkflow,
+  courseBranchWorkflow,
+} from "./branched-workflows/course-branch";
 
 export const mastra = new Mastra({
   workflows: {
     weatherWorkflow,
-    // contentWorkflow,
+    contentWorkflow,
     parallelWorkflow, // Add the parallel workflow
+    branchedWorkflow, // Add the branched workflow
+    logicalOperatorsWorkflow, // Add the logical operators workflow
+    courseBranchWorkflow, // Add the course branch workflow
   },
   agents: {
     weatherAgent,

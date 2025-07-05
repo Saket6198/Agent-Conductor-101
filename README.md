@@ -1,15 +1,21 @@
-# Agent Orchestration 101 - Intelligent Automation Platform
+# 🔧 Agent Orchestration 101 - Intelligent Automation Platform
 
-A modular TypeScript-based AI automation platform built with [Mastra](https://mastra.ai), featuring intelligent agents, conditional workflows, and seamless tool integrations.
+A modular TypeScript-based AI automation platform featuring intelligent agents, conditional workflows, and seamless tool integrations.
 
 ## ✨ Features
 
 - **🤖 AI Agents** - Intelligent agents with specialized capabilities
+![Test your AI Agents With Various Capabilities](image-3.png)
 - **⚡ Smart Workflows** - Conditional branching and parallel execution
+![Branched Workflows](image.png)
 - **🔧 Tool Integration** - Easy-to-add external service connections
+![Add Any Tools](image-1.png)
 - **🧠 Memory Systems** - Conversation history and context retention
 - **🔒 Type Safety** - Full TypeScript support with Zod validation
+![Runtime Validation using Zod Schema](image-2.png)
 - **🧪 Testing Suite** - Comprehensive test framework
+![Test Against Various Parameters](image-4.png)
+![Test Endpoints](image-5.png)
 
 ## 🏗️ Architecture
 
