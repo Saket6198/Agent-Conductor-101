@@ -4,18 +4,31 @@ A modular TypeScript-based AI automation platform featuring intelligent agents, 
 
 ## ✨ Features
 
-- **🤖 AI Agents** - Intelligent agents with specialized capabilities
-![Test your AI Agents With Various Capabilities](image-3.png)
-- **⚡ Smart Workflows** - Conditional branching and parallel execution
-![Branched Workflows](image.png)
-- **🔧 Tool Integration** - Easy-to-add external service connections
-![Add Any Tools](image-1.png)
-- **🧠 Memory Systems** - Conversation history and context retention
-- **🔒 Type Safety** - Full TypeScript support with Zod validation
-![Runtime Validation using Zod Schema](image-2.png)
-- **🧪 Testing Suite** - Comprehensive test framework
-![Test Against Various Parameters](image-4.png)
-![Test Endpoints](image-5.png)
+1. **🤖 AI Agents** - Intelligent agents with specialized capabilities
+![image](https://github.com/user-attachments/assets/3c0d21fa-e60b-47f9-92c8-9a121993233e)
+
+
+2. **⚡ Smart Workflows** - Conditional branching and parallel execution
+![image](https://github.com/user-attachments/assets/5ae0d83d-0adf-43ca-a21d-e34948ab408d)
+
+
+3. **🔧 Tool Integration** - Easy-to-add external service connections
+![image](https://github.com/user-attachments/assets/52e5cdd8-206d-4c09-9297-67f618b09efe)
+
+
+4. **🧠 Memory Systems** - Conversation history and context retention
+ ![image](https://github.com/user-attachments/assets/f0e6e663-f21c-4222-a23a-6cbdcbe85f0a)
+
+
+
+5. **🔒 Type Safety** - Full TypeScript support with Zod validation
+![image](https://github.com/user-attachments/assets/917017df-4111-4da9-9cb4-06fb4dbe0e95)
+
+
+6. **🧪 Testing Suite** - Comprehensive test framework
+![image](https://github.com/user-attachments/assets/7cff3724-dad5-44f7-9b31-afda31d98326)
+
+![image](https://github.com/user-attachments/assets/42bf201e-2cf2-4ef6-bd96-f51dcabac4c2)
 
 ## 🏗️ Architecture
 
