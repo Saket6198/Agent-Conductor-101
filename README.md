@@ -9,11 +9,11 @@ A modular TypeScript-based AI automation platform featuring intelligent agents, 
 
 
 2. **⚡ Smart Workflows** - Conditional branching and parallel execution
-![image](https://github.com/user-attachments/assets/5ae0d83d-0adf-43ca-a21d-e34948ab408d)
+![image](https://github.com/user-attachments/assets/52e5cdd8-206d-4c09-9297-67f618b09efe)
 
 
 3. **🔧 Tool Integration** - Easy-to-add external service connections
-![image](https://github.com/user-attachments/assets/52e5cdd8-206d-4c09-9297-67f618b09efe)
+![image](https://github.com/user-attachments/assets/917017df-4111-4da9-9cb4-06fb4dbe0e95)
 
 
 4. **🧠 Memory Systems** - Conversation history and context retention
@@ -22,11 +22,11 @@ A modular TypeScript-based AI automation platform featuring intelligent agents, 
 
 
 5. **🔒 Type Safety** - Full TypeScript support with Zod validation
-![image](https://github.com/user-attachments/assets/917017df-4111-4da9-9cb4-06fb4dbe0e95)
+![image](https://github.com/user-attachments/assets/7cff3724-dad5-44f7-9b31-afda31d98326)
 
 
 6. **🧪 Testing Suite** - Comprehensive test framework
-![image](https://github.com/user-attachments/assets/7cff3724-dad5-44f7-9b31-afda31d98326)
+![Screenshot 2025-07-05 224950](https://github.com/user-attachments/assets/d1d0ea8e-d0e9-4cea-84de-39a8432a5a51)
 
 ![image](https://github.com/user-attachments/assets/42bf201e-2cf2-4ef6-bd96-f51dcabac4c2)
 
